@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-heston-stochastic-volatility-cir-process-skill"
+version = "1.0.0"
+description = "Heston two-factor stochastic volatility model with Cox-Ingersoll-Ross (CIR) variance and Feller condition checking"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
