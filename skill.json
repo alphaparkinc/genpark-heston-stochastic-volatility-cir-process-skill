@@ -1,0 +1,19 @@
+{
+  "name": "genpark-heston-stochastic-volatility-cir-process-skill",
+  "version": "1.0.0",
+  "description": "Heston two-factor stochastic volatility model with Cox-Ingersoll-Ross (CIR) variance and Feller condition checking",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "heston-model",
+    "stochastic-volatility",
+    "cir-process",
+    "feller-condition",
+    "correlated-brownian",
+    "option-pricing",
+    "python-standard-library",
+    "agent-skills",
+    "volatility-surface",
+    "quantitative-finance"
+  ]
+}
